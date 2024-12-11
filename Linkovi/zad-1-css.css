@@ -1,0 +1,18 @@
+.prva {
+    a:link{
+        background-color: green;
+    }
+}
+.druga {
+    a:link{
+        background-color: red;
+    }
+}
+.treca {
+    a:link{
+        background-color: yellow;
+    }
+}
+a:visited{}
+a:hover{text-decoration: transparent}
+a:active{}
