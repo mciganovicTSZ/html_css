@@ -1,0 +1,17 @@
+ul{
+    background: green;
+    list-style-position: outside;
+    list-style-image: url("Images/ikona.jpg");
+}
+ol {
+    background: blue ;
+    list-style-position: outside;
+    list-style-image: url("https://thenounproject.com/browse/icons/term/small/");
+}
+ol li {
+    background: grey
+
+}
+ul li {
+    background: grey;
+}
