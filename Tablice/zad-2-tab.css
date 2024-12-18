@@ -1,0 +1,14 @@
+table,tr,td {
+    border-width: 3px;
+    border: pink;
+    border-style: dashed;
+    border-collapse: collapse;
+    vertical-align: bottom;
+    text-align: right;
+}
+table {
+    width: 100%;
+}
+tr,td{
+    height: 50px;
+}

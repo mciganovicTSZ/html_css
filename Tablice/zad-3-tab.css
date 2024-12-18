@@ -1,0 +1,8 @@
+tr {background: maroon;
+    color: white;}
+tr:hover{
+    background-color:purple;
+    td {
+        color: yellow;
+    }
+}
